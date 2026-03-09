@@ -1,0 +1,5 @@
+{
+  "name": "WAIS-IV Mock Test",
+  "description": "A comprehensive mock test application for WAIS-IV cognitive assessment indices including PRI, WMI, and PSI.",
+  "requestFramePermissions": []
+}
